@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this software when reusing the analysis."
+title: "Kayseri Wind Farm Site Screening with GIS and SVM"
+repository-code: "https://github.com/msaitd/kayseri-wind-site-screening"
+license: MIT
+version: "1.0.0"
+type: software
+authors:
+  - family-names: Eymen
+    given-names: Abdurrahman
+    orcid: "https://orcid.org/0000-0001-5347-2173"
+  - family-names: Dundar
+    given-names: Burak
+    orcid: "https://orcid.org/0009-0009-8296-0438"
+  - family-names: Dundar
+    given-names: Mehmet Sait
+    orcid: "https://orcid.org/0000-0002-0336-4825"
+keywords:
+  - wind energy
+  - geographic information systems
+  - support vector machines
+  - spatial validation
+  - Türkiye

@@ -1,0 +1,47 @@
+{
+  "1": {
+    "training_background": 28582,
+    "training_positive": 28582,
+    "training_unique_cells": 57164,
+    "mask_area_km2": 15940.25758224974,
+    "gis_only_area_km2": 560.7829072951795,
+    "high_suitable_moderate_km2": [
+      3.070668512263815,
+      171.79509088700732,
+      45.29670038679793
+    ],
+    "retained_area_km2": 220.16245978610135,
+    "eligible_cells": 749583,
+    "retained_cells": 293487
+  },
+  "3": {
+    "training_background": 28582,
+    "training_positive": 28582,
+    "training_unique_cells": 31846,
+    "mask_area_km2": 15940.25758224974,
+    "gis_only_area_km2": 573.9336405767441,
+    "high_suitable_moderate_km2": [
+      2.7887938651663364,
+      176.90914686442227,
+      45.57627799996883
+    ],
+    "retained_area_km2": 225.2742187295561,
+    "eligible_cells": 85323,
+    "retained_cells": 33403
+  },
+  "9": {
+    "training_background": 28582,
+    "training_positive": 28582,
+    "training_unique_cells": 28308,
+    "mask_area_km2": 15940.257582249738,
+    "gis_only_area_km2": 601.6838462336706,
+    "high_suitable_moderate_km2": [
+      2.3149085554860243,
+      185.27203338161792,
+      49.52409018661152
+    ],
+    "retained_area_km2": 237.11103212371643,
+    "eligible_cells": 9970,
+    "retained_cells": 3920
+  }
+}
